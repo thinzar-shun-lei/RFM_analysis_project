@@ -63,11 +63,10 @@ Develop appropriate strategies and recommended actions for each customer segment
 
 ## Dataset
 
-The dataset contains approximately 30,000 transaction records.
+The dataset contains approximately 30,000 transaction records. The original dataset contains transaction-level information, which was transformed into customer-level information for the RFM analysis.
 
 Link to dataset - https://www.kaggle.com/datasets/charmmyaeaung/raw-sales-dataset-for-rfm-customer-segmentation?resource=download
 
-The original dataset contains transaction-level information, which was transformed into customer-level information for the RFM analysis.
 ---
 
 # Data Cleaning and Transformation
